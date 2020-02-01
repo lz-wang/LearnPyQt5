@@ -1,4 +1,8 @@
 # LearnPyQt5
+
+> With PyQt5, make GUI easier!
+> 学习使用PyQt的框架来写GUI，加上Python3的易用性，更高效地造出小型工具！
+
 > [GitBook Original Source](https://maicss.gitbooks.io/pyqt5/content/)  
 
 ## 2020.01.31
