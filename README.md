@@ -1,7 +1,10 @@
 # LearnPyQt5
+With PyQt5, make GUI easier!
+> 学习使用PyQt的框架来写GUI，加上Python3的易用性，更高效地造出小型工具！
+
 > [GitBook Original Source](https://maicss.gitbooks.io/pyqt5/content/)  
 
-## 2020.01.31
+## 📅 2020.01.31
 ### [Hello World](https://github.com/lz-wang/LearnPyQt5/tree/master/01-HelloWorld)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/hello_world.html)  
 1. [简单的窗口](https://github.com/lz-wang/LearnPyQt5/blob/master/01-HelloWorld/eg1.py)
@@ -11,7 +14,7 @@
 5. [关闭窗口时的提示框](https://github.com/lz-wang/LearnPyQt5/blob/master/01-HelloWorld/eg5.py)
 6. [窗口居中化](https://github.com/lz-wang/LearnPyQt5/blob/master/01-HelloWorld/eg6.py)
 
-## 2020.02.01
+## 📅 2020.02.01
 ### [菜单和工具栏](https://github.com/lz-wang/LearnPyQt5/tree/master/02-MenuToolStatusBar)
 > [Original Source]( https://maicss.gitbooks.io/pyqt5/content/菜单和工具栏.html)  
 1. [状态栏](https://github.com/lz-wang/LearnPyQt5/blob/master/02-MenuToolStatusBar/eg1.py)
