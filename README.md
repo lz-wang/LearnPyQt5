@@ -24,7 +24,7 @@ With PyQt5, make GUI easier!
 5. [工具栏](https://github.com/lz-wang/LearnPyQt5/blob/master/02-MenuToolStatusBar/eg5.py)
 6. [主窗口](https://github.com/lz-wang/LearnPyQt5/blob/master/02-MenuToolStatusBar/eg6.py)
 
-## 2020.02.02
+## 📅 2020.02.02
 ### [布局管理](https://github.com/lz-wang/LearnPyQt5/tree/master/03-Layout)
 > [Original Source]( https://maicss.gitbooks.io/pyqt5/content/布局管理.html)  
 1. [绝对定位](https://github.com/lz-wang/LearnPyQt5/blob/master/03-Layout/eg1.py)
