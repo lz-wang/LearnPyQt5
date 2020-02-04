@@ -40,3 +40,11 @@ With PyQt5, make GUI easier!
 3. [事件对象](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot/eg3.py)
 4. [事件发送](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot/eg4.py)
 5. [信号发送](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot/eg5.py)
+
+## 📅 2020.02.04 Tuesday
+### [对话框](https://github.com/lz-wang/LearnPyQt5/tree/master/05-Dialog)
+> [Original Source]( https://maicss.gitbooks.io/pyqt5/content/对话框.html)  
+1. [输入文字](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg1.py)
+2. [选取颜色](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg2.py)
+3. [选择字体](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg3.py)
+4. [选择文件](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg4.py)
