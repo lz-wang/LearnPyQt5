@@ -54,7 +54,7 @@ With PyQt5, make GUI easier!
 4. [选择文件 QFileDialog](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg4.py)
 
 
-## 📅 2020.02.06 Thurday
+## 📅 2020.02.06～02.07 
 ### [控件](https://github.com/lz-wang/LearnPyQt5/tree/master/06-Widget)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/控件1.html)  
 
@@ -67,3 +67,11 @@ With PyQt5, make GUI easier!
 7. [行编辑 QLineEdit](https://github.com/lz-wang/LearnPyQt5/blob/master/06-Widget/eg7.py)
 8. [拖拽分割线改变子窗口大小控件 QSplitter](https://github.com/lz-wang/LearnPyQt5/blob/master/06-Widget/eg8.py)
 9. [下拉选项 QComboBox](https://github.com/lz-wang/LearnPyQt5/blob/master/06-Widget/eg9.py)
+
+
+## 📅 2020.02.08 Saturday
+### [拖拽操作](https://github.com/lz-wang/LearnPyQt5/tree/master/07-Drag)
+> [Original Source](https://maicss.gitbooks.io/pyqt5/content/拖拽.html)  
+
+1. [简单的拖拽](https://github.com/lz-wang/LearnPyQt5/blob/master/07-Drag/eg1.py)
+2. [拖放按钮组件](https://github.com/lz-wang/LearnPyQt5/blob/master/07-Drag/eg2.py)
