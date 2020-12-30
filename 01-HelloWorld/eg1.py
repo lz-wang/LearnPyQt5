@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 # -*- coding: utf-8 -*-
 # source: https://maicss.gitbooks.io/pyqt5/content/hello_world.html
 # 例1 简单的窗口
