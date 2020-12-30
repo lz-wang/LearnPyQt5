@@ -3,7 +3,7 @@ With PyQt5, make GUI easier!
 > 学习使用PyQt的框架来写GUI，加上Python3的易用性，更高效地造出小型工具！
 > [GitBook Original Source](https://maicss.gitbooks.io/pyqt5/content/)  
 
-## 📅 2020.01.31 Friday
+## 2020.01.31 Friday
 ### [Hello World](https://github.com/lz-wang/LearnPyQt5/tree/master/01-HelloWorld)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/hello_world.html)  
 
@@ -14,7 +14,7 @@ With PyQt5, make GUI easier!
 5. [关闭窗口时的提示框](https://github.com/lz-wang/LearnPyQt5/blob/master/01-HelloWorld/eg5.py)
 6. [窗口居中化](https://github.com/lz-wang/LearnPyQt5/blob/master/01-HelloWorld/eg6.py)
 
-## 📅 2020.02.01 Saturday
+## 2020.02.01 Saturday
 ### [菜单和工具栏](https://github.com/lz-wang/LearnPyQt5/tree/master/02-MenuToolStatusBar)
 > [Original Source]( https://maicss.gitbooks.io/pyqt5/content/菜单和工具栏.html)  
 
@@ -25,7 +25,7 @@ With PyQt5, make GUI easier!
 5. [工具栏 ](https://github.com/lz-wang/LearnPyQt5/blob/master/02-MenuToolStatusBar/eg5.py)
 6. [主窗口 QMainWindow](https://github.com/lz-wang/LearnPyQt5/blob/master/02-MenuToolStatusBar/eg6.py)
 
-## 📅 2020.02.02 Sunday
+## 2020.02.02 Sunday
 ### [布局管理](https://github.com/lz-wang/LearnPyQt5/tree/master/03-Layout)
 > [Original Source]( https://maicss.gitbooks.io/pyqt5/content/布局管理.html)  
 
@@ -34,7 +34,7 @@ With PyQt5, make GUI easier!
 3. [栅格布局 QGridLayout](https://github.com/lz-wang/LearnPyQt5/blob/master/03-Layout/eg3.py)
 4. [制作提交反馈信息的布局](https://github.com/lz-wang/LearnPyQt5/blob/master/03-Layout/eg4.py)
 
-## 📅 2020.02.03 Monday
+## 2020.02.03 Monday
 ### [事件和信号](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/事件和信号.html)  
 
@@ -44,7 +44,7 @@ With PyQt5, make GUI easier!
 4. [事件发送](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot/eg4.py)
 5. [信号发送](https://github.com/lz-wang/LearnPyQt5/blob/master/04-SignalSlot/eg5.py)
 
-## 📅 2020.02.04 Tuesday
+## 2020.02.04 Tuesday
 ### [对话框](https://github.com/lz-wang/LearnPyQt5/tree/master/05-Dialog)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/对话框.html)  
 
@@ -54,7 +54,7 @@ With PyQt5, make GUI easier!
 4. [选择文件 QFileDialog](https://github.com/lz-wang/LearnPyQt5/blob/master/05-Dialog/eg4.py)
 
 
-## 📅 2020.02.06～02.07 
+## 2020.02.06～02.07 
 ### [控件](https://github.com/lz-wang/LearnPyQt5/tree/master/06-Widget)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/控件1.html)  
 
@@ -69,7 +69,7 @@ With PyQt5, make GUI easier!
 9. [下拉选项 QComboBox](https://github.com/lz-wang/LearnPyQt5/blob/master/06-Widget/eg9.py)
 
 
-## 📅 2020.02.08 Saturday
+## 2020.02.08 Saturday
 ### [拖拽操作](https://github.com/lz-wang/LearnPyQt5/tree/master/07-Drag)
 > [Original Source](https://maicss.gitbooks.io/pyqt5/content/拖拽.html)  
 
